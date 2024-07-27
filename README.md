@@ -1,5 +1,8 @@
 <!-- Use HTML style tags to set a background color -->
 <div style="background-color: #1a1a2e; padding: 20px; border-radius: 10px; color: #fff;">
+<!--[logo](https://github.com/user-attachments/assets/764f9062-0fff-4251-a9a9-b68451d0abd4)-->
+<img align="right" alt="Data Analyst" width="1500" src="https://github.com/user-attachments/assets/764f9062-0fff-4251-a9a9-b68451d0abd4">
+
 
 ![Animated Logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
