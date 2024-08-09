@@ -1,7 +1,8 @@
 <!-- Use HTML style tags to set a background color -->
 <div style="background-color: #1a1a2e; padding: 20px; border-radius: 10px; color: #fff;">
 <!--[logo](https://github.com/user-attachments/assets/764f9062-0fff-4251-a9a9-b68451d0abd4)-->
-<img align="right" alt="Data Analyst" width="1500" src="https://github.com/user-attachments/assets/764f9062-0fff-4251-a9a9-b68451d0abd4">
+<img align="right" alt="Data Analyst" width="1500" src ="https://github.com/user-attachments/assets/2ca29dea-fc21-4b57-b289-1937a2cc274a">
+
 
 
 ![Animated Logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
@@ -21,10 +22,10 @@
 - 🌱 I’m currently learning **Deep Reinforcement Learning and Advanced Data Engineering Techniques**
 - 👯 I’m looking to collaborate on **Cutting-edge Data Science Research Projects**
 - 🤝 I’m looking for help with **Enhancing Deep Learning Model Performance & Integrating Data Engineering Best Practices**
-- 👨‍💻 All of my projects are available at [My Projects](https://drive.google.com/drive/folders/1H0Q_e1V-K481vOiBo6ra0wLTPRQLHv26?usp=sharing)
+- 👨‍💻 All of my projects are available at [My Projects](https://sayedarfat.github.io/)
 - 💬 Ask me about **Data-driven Decision Making, Complex SQL Query Optimization, Custom Data Visualization Techniques**
 - 📫 How to reach me **sayedarfat01@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Uo5tAZ0Y4TM25IitStgzokdqxCyGcimP?usp=sharing)
+- 📄 Know about my experiences [Resume](https://sayedarfat.github.io/)
 - ⚡ Fun fact **I love exploring new data sets and uncovering hidden patterns!**
 
 ## Connect with me:
